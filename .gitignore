@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local tooling and caches
+node_modules/
+.haxelib/
+.cache/
+.tmp/
+temp/
+tmp/
+
+# Logs and temporary outputs
+*.log
+*.tmp
+*.bak
